@@ -3,8 +3,6 @@
 ### I am a junior Web Developer !
 *I was trained by the O'clock School in the Trinity PHP promotion.*
 
-You can reach me by [mail](turpin.j@hotmail.fr)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TURPINJonathan&show_icons=true&theme=onedark)
 
