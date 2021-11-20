@@ -1,8 +1,8 @@
-<div align="center>
+<p align="center>
 
 # Hi there 👋
 
-</div>
+</p>
 
             
 <img height="350px" width="1000px" src="https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
