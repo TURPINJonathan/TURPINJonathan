@@ -1,8 +1,8 @@
-<center>
+<div align="center>
 
 # Hi there 👋
 
-
+</div>
 
 <img height="350px" width="1000px" src="https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
 
@@ -229,24 +229,10 @@
     </tr>
 </table>
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TURPINJonathan&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TURPINJonathan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
-
-
-<!--
-**TURPINJonathan/TURPINJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
