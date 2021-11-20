@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-</center>
+
 
 <img height="350px" width="1000px" src="https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
 
@@ -228,7 +228,6 @@
         </td>
     </tr>
 </table>
-<center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TURPINJonathan&show_icons=true&theme=onedark)
 
