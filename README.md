@@ -236,4 +236,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TURPINJonathan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=TURPINJonathan&color=brightgreen&style=flat-square)
+            
 </div>
