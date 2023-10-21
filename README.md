@@ -68,14 +68,6 @@
             <br>MySQL
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-            <br>Bootstrap
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
-            <br>Material UI
-        </td>
-        <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
             <br>Markdown
         </td>
@@ -106,6 +98,14 @@
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
             <br>NPM
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+            <br>Material UI
         </td>
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
