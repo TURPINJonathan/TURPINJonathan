@@ -42,13 +42,11 @@
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
             <br>SASS
-        </td>
-                
+        </td>  
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" />
             <br>VueJS
         </td>
-        
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
             <br>GitLab
