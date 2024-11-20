@@ -47,6 +47,14 @@
             <br>VueJS
         </td>
         <td align="center" width="140" height="112.43">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="VueJS" />
+            <br>Typescript
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="48" height="48" alt="VueJS" />
+            <br>Pinia
+        </td>
+        <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
             <br>GitLab
         </td>
@@ -179,6 +187,10 @@
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
             <br>NodeJS
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+            <br>Docker
         </td>
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" width="48" height="48" alt="Express" />
