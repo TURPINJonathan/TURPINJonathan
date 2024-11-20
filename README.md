@@ -179,18 +179,6 @@
             <br>Figma
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
-            <br>Illustrator
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
-            <br>Photoshop
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/premierepro/premierepro-original.svg" width="48" height="48" alt="Premiere Pro" />
-            <br>Premiere Pro
-        </td>
-        <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-plain.svg" width="48" height="48" alt="Xd" />
             <br>Xd
         </td>
@@ -199,6 +187,22 @@
 <p align="center">🧑‍💻 I want to learn 🧑‍💻</p>
 <table align= "center" border="1">
     <tr>
+        <td align="center" width="140" height="112.43">
+                <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" height="48" alt="React Native" />
+            <br>React Native
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://img.icons8.com/color/512/flutter.png" width="48" height="48" alt="Flutter" />
+            <br>Flutter
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="48" height="48" alt="NestJS" />
+            <br>NestJs
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
+            <br>Angular
+        </td>
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
             <br>NodeJS
@@ -219,6 +223,8 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nginx/nginx-original.svg" width="48" height="48" alt="NGINX" />
             <br>NGINX
         </td>
+    </tr>
+    <tr>
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
             <br>Pandas
@@ -227,8 +233,6 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="48" height="48" alt="Python" />
             <br>Python
         </td>
-    </tr>
-    <tr>
         <td align="center" width="140" height="112.43">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" width="48" height="48" alt="C" />
             <br>C
