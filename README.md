@@ -15,7 +15,7 @@
     Jonathan TURPIN
 </h1>
 <h2 align="center">
-    A Web Developer !
+    Web Developer !
 </h2>
 
 <div align="center">
@@ -47,16 +47,16 @@
             <br>VueJS
         </td>
         <td align="center" width="140" height="112.43">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="VueJS" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Typescript" />
             <br>Typescript
         </td>
         <td align="center" width="140" height="112.43">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="48" height="48" alt="VueJS" />
-            <br>Pinia
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="48" height="48" alt="Vite" />
+            <br>Vite
         </td>
         <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
-            <br>GitLab
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="48" height="48" alt="Pinia" />
+            <br>Pinia
         </td>
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="48" height="48" alt="ReactJS" />
@@ -66,45 +66,17 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
             <br>Redux
         </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-            <br>PHP
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-            <br>MySQL
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
-            <br>Markdown
-        </td>
     </tr>
 </table>
-<table align="center" border="1">
-    <tr align="center">
+<table align= "center" border="1">
+    <tr>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
-            <br>Apache
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" width="48" height="48" alt="Quasar" />
+            <br>Quasar
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" />
-            <br>Babel
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-            <br>Git
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-            <br>GitHub
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
-            <br>Composer
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-            <br>NPM
+            <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" width="48" height="48" alt="Vuetify" />
+            <br>Vuetify
         </td>
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
@@ -115,12 +87,76 @@
             <br>Material UI
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://avatars.githubusercontent.com/u/77578415?s=280&v=4" width="48" height="48" alt="Vueuse" />
+            <br>VueUse
+        </td>
+        <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
             <br>Webpack
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+            <br>NPM
+        </td>
+        <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/yarn/yarn-original.svg" width="48" height="48" alt="Yarn" />
             <br>Yarn
+        </td>
+    </tr>
+</table>
+<table align= "center" border="1">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+            <br>PHP
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+            <br>MySQL
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
+            <br>Symfony
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/doctrine/doctrine-original.svg" width="48" height="48" alt="Doctrine" />
+            <br>Doctrine
+        </td>
+        <td align="center" width="140" height="112.43">
+                <img src="https://api-platform.com/images/logos/Logo_Circle%20webby%20text%20blue.png" width="48" height="48" alt="API Platform" />
+            <br>API Plateform
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
+            <br>Composer
+        </td>
+    </tr>
+</table>
+<table align= "center" border="1">
+    <tr>
+    </tr>
+</table>
+<table align="center" border="1">
+    <tr align="center">
+        <td align="center" width="140" height="112.43">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
+            <br>GitLab
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
+            <br>Apache
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" />
+            <br>Babel
         </td>
     </tr>
 </table>
@@ -161,23 +197,6 @@
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-plain.svg" width="48" height="48" alt="Xd" />
             <br>Xd
-        </td>
-    </tr>
-</table>
-<p align="center">🧑‍💻 I am actually learning 🧑‍💻</p>
-<table align= "center" border="1">
-    <tr>
-        <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-            <br>Docker
-        </td>
-        <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
-            <br>Symfony
-        </td>
-        <td align="center" width="140" height="112.43">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/doctrine/doctrine-original.svg" width="48" height="48" alt="Doctrine" />
-            <br>Doctrine
         </td>
     </tr>
 </table>
