@@ -15,9 +15,8 @@
     Jonathan TURPIN
 </h1>
 <h2 align="center">
-    A Web Junior Developer !
+    A Web Developer !
 </h2>
-<p align="center">I was trained by the O'clock School in the Trinity PHP promotion.</p>
 
 <div align="center">
     <p align="center">📫 You can reach me by 📫</p>
