@@ -132,10 +132,6 @@
         </td>
     </tr>
 </table>
-<table align= "center" border="1">
-    <tr>
-    </tr>
-</table>
 <table align="center" border="1">
     <tr align="center">
         <td align="center" width="140" height="112.43">
