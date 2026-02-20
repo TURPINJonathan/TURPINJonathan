@@ -4,9 +4,8 @@
 
 </div>
 
-            
-<img height="auto" width="100%" src="https://media.licdn.com/dms/image/D4D12AQGt0yYjB3eBrw/article-cover_image-shrink_720_1280/0/1702649197765?e=2147483647&v=beta&t=5v9Jr7tk1UYtA4HqecrnLneWsnmWcNsyCCj8F5DoB8o">
-
+<img height="auto" width="100%" src="https://jonathan-turpin.fr/pictures/socials/banner.png">
+<!-- <img height="auto" width="100%" src="https://media.licdn.com/dms/image/D4D12AQGt0yYjB3eBrw/article-cover_image-shrink_720_1280/0/1702649197765?e=2147483647&v=beta&t=5v9Jr7tk1UYtA4HqecrnLneWsnmWcNsyCCj8F5DoB8o"> -->
 
 <p align="center">
     I am
